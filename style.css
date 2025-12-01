@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
     font-size: 30px;
     text-align: center;
@@ -13,3 +14,20 @@ p {
 body {
     background-color: #007BFF;
 }
+=======
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #de7471
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: #007BFF;
+}
+>>>>>>> 942270c (Mise à jour fichier)
